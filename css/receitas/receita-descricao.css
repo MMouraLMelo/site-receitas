@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.receita_descricao{
+    font-size: 1.1875rem;
+    line-height: 1.5;
+    text-align: justify;
+}

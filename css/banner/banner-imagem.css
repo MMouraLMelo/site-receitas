@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.imagem__banner{
+    width: 100%;
+    height: calc(100%vh - 72px);
+}
